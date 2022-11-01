@@ -2,7 +2,6 @@
 # Deployed Link:  [Tripoto-Clone]
 https://rct211-tripoto-clone.netlify.app/
 </br>
-</br>
 https://tripoto-clone-three.vercel.app/
 
 
