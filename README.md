@@ -1,5 +1,7 @@
 
-# Deployed Link:  [Tripoto-Clone](https://rct211-tripoto-clone.netlify.app/)
+# Deployed Link:  [Tripoto-Clone]
+(https://rct211-tripoto-clone.netlify.app/)
+(https://tripoto-clone-three.vercel.app/)
 
 
 This is a collaborative Project from Masai School in the Construct Week. We are 5 members of the team:
